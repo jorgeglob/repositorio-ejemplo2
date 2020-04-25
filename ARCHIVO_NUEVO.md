@@ -1,1 +1,1 @@
-# Python es mejor de JS :v
+# Python es mejor de JS en Data Science
